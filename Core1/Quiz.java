@@ -11,6 +11,5 @@ public class Quiz {
       ;
     System.out.println(i); // Ans is 200 as the loop runs 200 times before exiting and printing this
                            // statement.
-
   }
 }
